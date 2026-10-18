@@ -1,0 +1,19 @@
+# Python缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 日志文件
+logs/*.log
+
+# 数据库备份临时文件
+*.db.bak
+
+# 生成的简历和图表
+resume_output/
+export/
+
+# 虚拟环境
+venv/
+.env

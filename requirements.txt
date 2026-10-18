@@ -1,0 +1,8 @@
+# 简历批量生成与投递管理系统依赖
+# 安装：python -m pip install -r requirements.txt
+
+python-docx>=1.1.2
+pandas>=2.2.0
+matplotlib>=3.8.0
+openpyxl>=3.1.2
+xlrd>=2.0.1
